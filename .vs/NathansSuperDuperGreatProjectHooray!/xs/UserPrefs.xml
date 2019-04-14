@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7899D6AC-EBCE-FEC9-E461-181E6BC1D760}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Thingy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/InputManager.cs" Line="31" Column="6" />
+      <File FileName="Assets/Scripts/Delegates.cs" Line="6" Column="91" />
+      <File FileName="Assets/Scripts/Controllers/KeyboardController.cs" Line="18" Column="25" />
+      <File FileName="Assets/Scripts/Thingy.cs" Line="25" Column="25" />
+      <File FileName="Assets/Scripts/Controllers/MouseController.cs" Line="18" Column="113" />
+      <File FileName="Assets/Scripts/CubeMover.cs" Line="11" Column="6" />
+      <File FileName="Assets/Scripts/Controllers/Controller.cs" Line="5" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
