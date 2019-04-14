@@ -2,11 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Controller for mouse input
+/// </summary>
 public class MouseController : Controller
 {
-    // Update is called once per frame
+
     void Update()
     {
+        //Send input events to InputManager
         if (Input.GetMouseButtonDown(0))
         {
             InputManager.TriggerDown(currentHand);
